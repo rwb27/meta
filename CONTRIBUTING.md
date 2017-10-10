@@ -22,8 +22,8 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 Please stay on the lookout for can any potential issue that might cause problems for the project! These could be problems in code, content omissions or copy errors, or any issues with the functionality or design of DocuBricks. 
 
-Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER](https://github.com/DocuBricks/meta/issues)!
 
 ## Communication channels
 
-Please submitt an issue in this repository! [LINK TO ISSUE TRACKER]
+Please submitt an issue in this repository! [LINK TO ISSUE TRACKER](https://github.com/DocuBricks/meta/issues)
