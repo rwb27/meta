@@ -17,4 +17,4 @@ The [DocuBricks Viewer](https://github.org/DocuBricks/docubricksViewer)! To view
 The [DocuBricks Website](https://github.org/DocuBricks/docubricksSite)! Our website code.
 
 ## NEWS - we now have an API
-Under [https://docubricks.org/GetDocumentList](https://docubricks.org/GetDocumentList)! you can now access a list of project on our open repository and include results into the search of your external website.
+Under https://docubricks.org/GetDocumentList you can now access a list of project on our open repository and include results into the search of your external website.
